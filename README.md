@@ -3,7 +3,7 @@
 Hola!, em dic Sara i soc una "developer" principiant amb moltes ganes d'aprendre en el món de la informàtica. 
 De moment em centro principalment en el desenvolupament de pàgines web amb programació en C#, encara que més endavant voldré aprendre més llenguatges de programació com Java, Python...
 
-- 🎓 He estudiat batxillerat en l'institut Narcís Monturiol, i ara estic en el Cicle formatiu Superior de dades i aplicacions Web de l'institut Cendrassos.
+- 🎓 He estudiat batxillerat en l'institut Narcís Monturiol, i ara estic en el Cicle formatiu Superior de desenvolupament d'aplicacions Web de l'institut Cendrassos.
 - 🥇 M'agrada fer esport, concretament mountain bike.
 - 🥈 Soc força bona preparant postres, però la cuina salada no és el meu fort. Els dolços són la meva zona de confort!
 - 🥉 I finalment cal dir que m'encanta escoltar música, concretament pop i rap.
