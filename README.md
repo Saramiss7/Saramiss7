@@ -9,3 +9,9 @@ De moment em centro principalment en el desenvolupament de pàgines web amb prog
 - 🥉 I finalment cal dir que m'encanta escoltar música, concretament pop i rap.
 
 Actualment, estic aprenent a programar mitjançant C# i trobo que la programació és tant interessant com desafiant. Gaudeixo aprenent i resolent problemes, cosa que converteix el procés en una experiència gratificant i entretinguda.
+
+### Alaoui
+
+|lapa|kasmh|
+|-----|-----|
+|sudbfs|fkjsn|
