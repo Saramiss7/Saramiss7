@@ -10,8 +10,6 @@ De moment em centro principalment en el desenvolupament de pàgines web amb prog
 
 Actualment, estic aprenent a programar mitjançant C# i trobo que la programació és tant interessant com desafiant. Gaudeixo aprenent i resolent problemes, cosa que converteix el procés en una experiència gratificant i entretinguda.
 
-### Alaoui
-
-|lapa|kasmh|
-|-----|-----|
-|sudbfs|fkjsn|
+# Programes
+### Tots els exercicis de programació que vaig fent
+https://github.com/Saramiss7/programacio
