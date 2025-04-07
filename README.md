@@ -1,3 +1,6 @@
+<h1 align="center">Hi , I'm Sara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
 # **ABOUT-ME**
 
 Hola!, em dic Sara i soc una "developer" principiant amb moltes ganes d'aprendre en el món de la informàtica. 
