@@ -1,20 +1,86 @@
-<h1 align="center">Hi , I'm Sara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Sara Alaoui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=👩‍💻+I'm+a+Web+Development+Student;🚀+Always+Building;📚+Always+Learning;✨+Always+learning+new+things&center=true&width=500&height=50">
+</a>
+
+</p>
+<hr/>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 🌱 I’m currently learning **WEB Development Full-Stack**
+Hola!, em dic Sara i soc una "developer" principiant amb moltes ganes d'aprendre en el món de la informàtica. 
+De moment em centro principalment en el desenvolupament de pàgines web amb programació en C#, encara que més endavant voldré aprendre més llenguatges de programació com Java, Python...
+
+- 🎓 He estudiat batxillerat en l'institut Narcís Monturiol, i ara estic en el Cicle formatiu Superior de desenvolupament d'aplicacions Web de l'institut Cendrassos.
+- 🥇 M'agrada fer esport, concretament mountain bike.
+- 🥈 Soc força bona preparant postres, però la cuina salada no és el meu fort. Els dolços són la meva zona de confort!
+- 🥉 I finalment cal dir que m'encanta escoltar música, concretament pop i rap.
+
+Actualment, estic aprenent a programar mitjançant C# i trobo que la programació és tant interessant com desafiant. Gaudeixo aprenent i resolent problemes, cosa que converteix el procés en una experiència gratificant i entretinguda.
 <br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcOnbzSfF7tIN5JB1FiBFf-dVq4KwyRgaOQ&s"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> **Front-End Development**:
+   <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js"/>
+  </a>
+</p>
+<br>
+
+- **Back-End Development**:
+   <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java"/>
+  </a>
+</p>
+<br>
+
+- **IDES**:
+    <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rider,vscode,eclipse"/>
+  </a>
 </p>
 
 <br>
+
+- **Technologies That I Know**👨🏻‍💻:
+    <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,regex,md,bash,dotnet,mysql,stackoverflow,discord,ubuntu"/>
+  </a>
+</p>
+
+<br>
+
+## You can contact me ☎️
+
+<div>
+  <samp>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+
+<br>
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
