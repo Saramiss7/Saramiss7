@@ -1,9 +1,6 @@
 <h1 align="center">Hi , I'm Sara Alaoui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=👩‍💻+I'm+a+Web+Development+Student;🚀+Always+Building;📚+Always+Learning;✨+Always+learning+new+things&center=true&width=600&height=70">
-</a>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+profile;I'm+a+Web+Development+Student+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+;Always+Building+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Always+learning+new+things+%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
 <hr/>
 
