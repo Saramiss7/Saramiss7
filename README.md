@@ -4,19 +4,10 @@
 </p>
 <hr/>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-🌱 I’m currently learning **WEB Development Full-Stack**
-Hola!, em dic Sara i soc una "developer" principiant amb moltes ganes d'aprendre en el món de la informàtica. 
-De moment em centro principalment en el desenvolupament de pàgines web amb programació en C#, encara que més endavant voldré aprendre més llenguatges de programació com Java, Python...
-
-- 🎓 He estudiat batxillerat en l'institut Narcís Monturiol, i ara estic en el Cicle formatiu Superior de desenvolupament d'aplicacions Web de l'institut Cendrassos.
-- 🥇 M'agrada fer esport, concretament mountain bike.
-- 🥈 Soc força bona preparant postres, però la cuina salada no és el meu fort. Els dolços són la meva zona de confort!
-- 🥉 I finalment cal dir que m'encanta escoltar música, concretament pop i rap.
-
-Actualment, estic aprenent a programar mitjançant C# i trobo que la programació és tant interessant com desafiant. Gaudeixo aprenent i resolent problemes, cosa que converteix el procés en una experiència gratificant i entretinguda.
+🎓 Studies
+- Scientific-Technological Baccalaureate degree, INS Narcís Monturiol
+- Currently studying a Higher Vocational Training Cycle in Web Application Development at Institut Cendrassos
 <br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> **Front-End Development**:
