@@ -39,7 +39,7 @@
 - **Technologies That I Know**👨🏻‍💻:
     <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,regex,md,bash,dotnet,mysql,stackoverflow,discord,ubuntu,docker"/>
+    <img src="https://skillicons.dev/icons?i=git,github,regex,md,bash,dotnet,mysql,stackoverflow,discord,ubuntu,docker,wordpress,php"/>
   </a>
 </p>
 
